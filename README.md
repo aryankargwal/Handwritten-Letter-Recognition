@@ -1,2 +1,6 @@
 # Handwritten-Letter-Recognition
-I have trained a simple ConvNet to recognize handwritten letters using a modified version of LeNet-5 with Adam Optimization. The model achieved 98.76% accuracy on the MNIST dataset.
+In this repository I have implied handwritten digit recognizer on the famous MNIST dataset using both PyTorch and TensorFlow.
+About the dataset:-
+MNIST (Modified National Institute of Standards and Technology) dataset is a collection of 60,000 training and 10,000 testing labelled images of numerical letters 0-9.
+Sample Data:-
+https://en.wikipedia.org/wiki/File:MnistExamples.png
